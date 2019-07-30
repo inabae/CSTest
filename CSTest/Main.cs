@@ -6,7 +6,7 @@ namespace CSTest
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("version 1");
+            System.Console.WriteLine("version 2");
         }
     }
 }
